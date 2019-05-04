@@ -4,7 +4,12 @@
 To view the Jupyter Notebook:
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/1/Untitled.ipynb
 
-#2: In this project I have used logistic regression, linear regression, linear discriminant and quadratic discriminant to model the data sets along with some comparisons and conclusions
+#2: In this project I have used
+- logistic regression
+- linear regression
+- linear discriminant
+- quadratic discriminant
+to model the data sets along with some comparisons and conclusions
 
 To view the Jupyter Notebook: https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/2/Modeling%20and%20Prediction%20for%20Credit%20Data.ipynb
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/2/Modeling%20and%20Prediction%20for%20Income%20Data.ipynb
