@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="oldpeak <= 0.9\ngini = 0.5\nsamples = 129\nvalue = [103, 109]"] ;
+1 [label="sex <= 0.5\ngini = 0.3\nsamples = 65\nvalue = [22, 86]"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="ca <= 1.5\ngini = 0.0\nsamples = 24\nvalue = [1, 38]"] ;
+1 -> 2 ;
+3 [label="gini = 0.0\nsamples = 22\nvalue = [0, 36]"] ;
+2 -> 3 ;
+4 [label="gini = 0.4\nsamples = 2\nvalue = [1, 2]"] ;
+2 -> 4 ;
+5 [label="oldpeak <= 0.6\ngini = 0.4\nsamples = 41\nvalue = [21, 48]"] ;
+1 -> 5 ;
+6 [label="gini = 0.4\nsamples = 34\nvalue = [15, 43]"] ;
+5 -> 6 ;
+7 [label="gini = 0.5\nsamples = 7\nvalue = [6, 5]"] ;
+5 -> 7 ;
+8 [label="sex <= 0.5\ngini = 0.3\nsamples = 64\nvalue = [81, 23]"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="thal <= 2.5\ngini = 0.4\nsamples = 14\nvalue = [5, 11]"] ;
+8 -> 9 ;
+10 [label="gini = 0.3\nsamples = 12\nvalue = [2, 11]"] ;
+9 -> 10 ;
+11 [label="gini = 0.0\nsamples = 2\nvalue = [3, 0]"] ;
+9 -> 11 ;
+12 [label="thalach <= 184.5\ngini = 0.2\nsamples = 50\nvalue = [76, 12]"] ;
+8 -> 12 ;
+13 [label="gini = 0.2\nsamples = 49\nvalue = [76, 9]"] ;
+12 -> 13 ;
+14 [label="gini = 0.0\nsamples = 1\nvalue = [0, 3]"] ;
+12 -> 14 ;
+}

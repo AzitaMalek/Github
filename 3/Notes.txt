@@ -1,0 +1,10 @@
+first two principal components
+logistic regression
+n-principal components
+logistic classifier
+linear discriminant
+
+Undefitting versus Overfitting using cross-validation
+linear regression model
+polynomial regression model
+Lasso
