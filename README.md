@@ -1,9 +1,11 @@
 # Projects
 #1: In this project I have 9 different exercises to practice functions, random numbers, distributions and probability calculation. Details of each function is provided in the "Notes" in folder 1.
+
 To view the Jupyter Notebook:
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/1/Untitled.ipynb
 
 #2: In this project I have used logistic regression, linear regression, linear discriminant and quadratic discriminant to model the data sets along with some comparisons and conclusions
+
 To view the Jupyter Notebook: https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/2/Modeling%20and%20Prediction%20for%20Credit%20Data.ipynb
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/2/Modeling%20and%20Prediction%20for%20Income%20Data.ipynb
 
@@ -17,11 +19,12 @@ https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/2/Modeling%20a
 -	linear regression model
 -	polynomial regression model
 -	Lasso
+
 To view the Jupyter Notebook:
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/3/Binary%20and%20Multi%20Classification%20for%20Zip%20Data.ipynb
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/3/underfitting%20and%20overfitting%20using%20cross-validation.ipynb
 
 #4: This project is about heart disease prediction. After full analysis and study of the data, I have used decision tree and random forest to predict heart disease based on available data. A full report is provided in the directory.
-To view the Jupyter Notebook:
 
+To view the Jupyter Notebook:
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/4/Untitled.ipynb
