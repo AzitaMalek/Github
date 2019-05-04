@@ -32,6 +32,7 @@ https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/3/underfitting
 #4: This project is about heart disease prediction. After full analysis and study of the data, I have used
 - decision tree
 - random forest
+
 to predict heart disease based on available data. A full report is provided in the directory.
 
 To view the Jupyter Notebook:
