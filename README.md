@@ -29,7 +29,10 @@ To view the Jupyter Notebook:
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/3/Binary%20and%20Multi%20Classification%20for%20Zip%20Data.ipynb
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/3/underfitting%20and%20overfitting%20using%20cross-validation.ipynb
 
-#4: This project is about heart disease prediction. After full analysis and study of the data, I have used decision tree and random forest to predict heart disease based on available data. A full report is provided in the directory.
+#4: This project is about heart disease prediction. After full analysis and study of the data, I have used
+- decision tree
+- random forest
+to predict heart disease based on available data. A full report is provided in the directory.
 
 To view the Jupyter Notebook:
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/4/Untitled.ipynb
