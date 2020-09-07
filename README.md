@@ -37,3 +37,7 @@ to predict heart disease based on available data. A full report is provided in t
 
 To view the Jupyter Notebook:
 https://nbviewer.jupyter.org/github/AzitaMalek/Github/blob/master/4/Untitled.ipynb
+
+# IFT 6390 Machine Learning Course Projects and HWs
+
+- HW 0 --> Practicing np.arrays
